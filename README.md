@@ -1,6 +1,12 @@
 # Lines of Code (loc)
 A simple rust binary for getting the lines of code in a specified directory.
 
+### Example
+```
+loc src
+```
+> Prints the lines found from all non excluded files in the `./src` directory.
+
 ### Installation
 Clone from git
 ```
