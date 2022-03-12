@@ -8,22 +8,22 @@ loc src
 > Prints the lines found from all non excluded files in the `./src` directory.
 
 ### Installation
-Clone from git
+> Clone from git
 ```
 git clone https://github.com/sqwyer/loc.git loc
 ```
 
-Navigate to directory
+> Navigate to directory
 ```
 cd loc
 ```
 
-Build binary
+> Build binary
 ```
 cargo build --release
 ```
 
-Install binary
+> Install binary
 ```
 cargo install --path .
 ```
